@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="css/jquery.ad-gallery.css">
+  <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="js/jquery.ad-gallery.js"></script>
+  <script type="text/javascript">
+  $(function() {
+    //$('img.image1').data('ad-desc', 'Whoa! This description is set through elm.data("ad-desc") instead of using the longdesc attribute.<br>And it contains <strong>H</strong>ow <strong>T</strong>o <strong>M</strong>eet <strong>L</strong>adies... <em>What?</em> That aint what HTML stands for? Man...');
+    //$('img.image1').data('ad-title', 'Title through $.data');
+    //$('img.image4').data('ad-desc', 'This image is wider than the wrapper, so it has been scaled down');
+    //$('img.image5').data('ad-desc', 'This image is higher than the wrapper, so it has been scaled down');
+    var galleries = $('.ad-gallery').adGallery();
+    $('#switch-effect').change(
+      function() {
+        galleries[0].settings.effect = $(this).val();
+        return false;
+      }
+    );
+    $('#toggle-slideshow').click(
+      function() {
+        galleries[0].slideshow.toggle();
+        return false;
+      }
+    );
+    $('#toggle-description').click(
+      function() {
+        if(!galleries[0].settings.description_wrapper) {
+          galleries[0].settings.description_wrapper = $('#descriptions');
+        } else {
+          galleries[0].settings.description_wrapper = false;
+        }
+        return false;
+      }
+    );
+  });
+  </script>
+
+<style type="text/css">
+img {border:none;}
+html, body {background:#141215;margin:0px; position:absolute; overflow:hidden; color:#FFFFFF;}
+.ad-image{width: 803px !important; height:600px !important;left:0px !important; }
+#gallery {padding: 0px;background:none;}
+#descriptions {position: relative;height: 50px;background: #EEE;margin-top: 10px;width: 803px;padding: 10px;overflow: hidden;}
+#descriptions .ad-image-description {position: absolute;}
+#descriptions .ad-image-description .ad-description-title {display: block;}
+#container {background:#141215;}
+.popup_outer {background:#141214;width: 803px !important;}
+.top_text {color:#FFFFFF !important; font-size:24px; margin:0px; padding:15px 10px 5px 20px;}
+.close { width:17px; height:17px; float:right; margin:15px;}
+
+
+  </style>
+  <title>Gallary</title>
+</head>
+<body>
+  <div id="container">
+    <div id="gallery" class="ad-gallery">
+      <div class="ad-image-wrapper">      </div>
+      <div class="ad-controls">      </div>
+      <div class="ad-nav">
+        <div class="ad-thumbs">
+          <ul class="ad-thumb-list">
+            <li>
+              <a href="images/bangalore/big/01.jpg" style="background:url(images/bangalore/small/01.jpg) no-repeat;">
+                <img src="images/bangalore/small/01_1.jpg" class="image0"></a>            </li>
+            <li>
+              <a href="images/bangalore/big/02.jpg" style="background:url(images/bangalore/small/02.jpg) no-repeat;">
+                <img src="images/bangalore/small/02_1.jpg" class="image1">              </a>            </li>
+            <li>
+              <a href="images/bangalore/big/03.jpg" style="background:url(images/bangalore/small/03.jpg) no-repeat;">
+                <img src="images/bangalore/small/03_1.jpg" class="image2">              </a>            </li>
+            <li>
+              <a href="images/bangalore/big/04.jpg" style="background:url(images/bangalore/small/04.jpg) no-repeat;">
+                <img src="images/bangalore/small/04_1.jpg" class="image3">              </a>            </li>
+            <li>
+              <a href="images/bangalore/big/05.jpg" style="background:url(images/bangalore/small/05.jpg) no-repeat;">
+                <img src="images/bangalore/small/05_1.jpg" class="image4">              </a>            </li>
+            <li>
+              <a href="images/bangalore/big/06.jpg" style="background:url(images/bangalore/small/06.jpg) no-repeat;">
+                <img src="images/bangalore/small/06_1.jpg" class="image5">              </a>            </li>
+            <li>
+              <a href="images/bangalore/big/07.jpg" style="background:url(images/bangalore/small/07.jpg) no-repeat;">
+                <img src="images/bangalore/small/07_1.jpg" class="image6">              </a>            </li>
+            <li>
+              <a href="images/bangalore/big/08.jpg" style="background:url(images/bangalore/small/08.jpg) no-repeat;">
+                <img src="images/bangalore/small/08_1.jpg" class="image7">              </a>            </li>
+            <li>
+              <a href="images/bangalore/big/09.jpg" style="background:url(images/bangalore/small/09.jpg) no-repeat;">
+                <img src="images/bangalore/small/09_1.jpg" class="image8">              </a>            </li>
+            <li>
+              <a href="images/bangalore/big/10.jpg" style="background:url(images/bangalore/small/10.jpg) no-repeat;">
+                <img src="images/bangalore/small/10_1.jpg" class="image9">              </a>            </li>
+            <li>
+              <a href="images/bangalore/big/11.jpg" style="background:url(images/bangalore/small/11.jpg) no-repeat;">
+                <img src="images/bangalore/small/11_1.jpg" class="image10">              </a>            </li>
+            <li>
+              <a href="images/bangalore/big/12.jpg" style="background:url(images/bangalore/small/12.jpg) no-repeat;">
+                <img src="images/bangalore/small/12_1.jpg" class="image11">              </a>            </li>
+           
+           
+           
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+    <script>
+  	$(function(){
+		$('#close').click(function(){
+			parent.$.fancybox.close();			
+		});
+	})
+	
+  </script>
+</body>
+</html>

@@ -1,0 +1,229 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="css/jquery.ad-gallery.css">
+  <script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="js/jquery.ad-gallery.js"></script>
+  <script type="text/javascript">
+  $(function() {
+    //$('img.image1').data('ad-desc', 'Whoa! This description is set through elm.data("ad-desc") instead of using the longdesc attribute.<br>And it contains <strong>H</strong>ow <strong>T</strong>o <strong>M</strong>eet <strong>L</strong>adies... <em>What?</em> That aint what HTML stands for? Man...');
+    //$('img.image1').data('ad-title', 'Title through $.data');
+    //$('img.image4').data('ad-desc', 'This image is wider than the wrapper, so it has been scaled down');
+    //$('img.image5').data('ad-desc', 'This image is higher than the wrapper, so it has been scaled down');
+    var galleries = $('.ad-gallery').adGallery();
+    $('#switch-effect').change(
+      function() {
+        galleries[0].settings.effect = $(this).val();
+        return false;
+      }
+    );
+    $('#toggle-slideshow').click(
+      function() {
+        galleries[0].slideshow.toggle();
+        return false;
+      }
+    );
+    $('#toggle-description').click(
+      function() {
+        if(!galleries[0].settings.description_wrapper) {
+          galleries[0].settings.description_wrapper = $('#descriptions');
+        } else {
+          galleries[0].settings.description_wrapper = false;
+        }
+        return false;
+      }
+    );
+  });
+  </script>
+
+<style type="text/css">
+img {border:none;}
+html, body {background:#141215;margin:0px; position:absolute; overflow:hidden; color:#FFFFFF;}
+.ad-image{width: 803px !important; height:600px !important;left:0px !important; }
+#gallery {padding: 0px;background:none;}
+#descriptions {position: relative;height: 50px;background: #EEE;margin-top: 10px;width: 803px;padding: 10px;overflow: hidden;}
+#descriptions .ad-image-description {position: absolute;}
+#descriptions .ad-image-description .ad-description-title {display: block;}
+#container {background:#141215;}
+.popup_outer {background:#141214;width: 803px !important;}
+.top_text {color:#FFFFFF !important; font-size:24px; margin:0px; padding:15px 10px 5px 20px;}
+.close { width:17px; height:17px; float:right; margin:15px;}
+
+
+  </style>
+  <title>Gallary</title>
+</head>
+<body>
+  <div id="container">
+    <div id="gallery" class="ad-gallery">
+      <div class="ad-image-wrapper">      </div>
+      <div class="ad-controls">      </div>
+      <div class="ad-nav">
+        <div class="ad-thumbs">
+          <ul class="ad-thumb-list">
+            <li>
+              <a href="images/hyderabad/big/01.jpg" style="background:url(images/hyderabad/small/01.jpg) no-repeat;">
+                <img src="images/hyderabad/small/01_1.jpg" class="image0"></a>            </li>
+            <li>
+              <a href="images/hyderabad/big/02.jpg" style="background:url(images/hyderabad/small/02.jpg) no-repeat;">
+                <img src="images/hyderabad/small/02_1.jpg" class="image1">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/03.jpg" style="background:url(images/hyderabad/small/03.jpg) no-repeat;">
+                <img src="images/hyderabad/small/03_1.jpg" class="image2">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/04.jpg" style="background:url(images/hyderabad/small/04.jpg) no-repeat;">
+                <img src="images/hyderabad/small/04_1.jpg" class="image3">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/05.jpg" style="background:url(images/hyderabad/small/05.jpg) no-repeat;">
+                <img src="images/hyderabad/small/05_1.jpg" class="image4">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/06.jpg" style="background:url(images/hyderabad/small/06.jpg) no-repeat;">
+                <img src="images/hyderabad/small/06_1.jpg" class="image5">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/07.jpg" style="background:url(images/hyderabad/small/07.jpg) no-repeat;">
+                <img src="images/hyderabad/small/07_1.jpg" class="image6">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/08.jpg" style="background:url(images/hyderabad/small/08.jpg) no-repeat;">
+                <img src="images/hyderabad/small/08_1.jpg" class="image7">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/09.jpg" style="background:url(images/hyderabad/small/09.jpg) no-repeat;">
+                <img src="images/hyderabad/small/09_1.jpg" class="image8">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/10.jpg" style="background:url(images/hyderabad/small/10.jpg) no-repeat;">
+                <img src="images/hyderabad/small/10_1.jpg" class="image9">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/11.jpg" style="background:url(images/hyderabad/small/11.jpg) no-repeat;">
+                <img src="images/hyderabad/small/11_1.jpg" class="image10">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/12.jpg" style="background:url(images/hyderabad/small/12.jpg) no-repeat;">
+                <img src="images/hyderabad/small/12_1.jpg" class="image11">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/13.jpg" style="background:url(images/hyderabad/small/13.jpg) no-repeat;">
+                <img src="images/hyderabad/small/13_1.jpg" class="image12">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/14.jpg" style="background:url(images/hyderabad/small/14.jpg) no-repeat;">
+                <img src="images/hyderabad/small/14_1.jpg" class="image13">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/15.jpg" style="background:url(images/hyderabad/small/15.jpg) no-repeat;">
+                <img src="images/hyderabad/small/15_1.jpg" class="image14">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/16.jpg" style="background:url(images/hyderabad/small/16.jpg) no-repeat;">
+                <img src="images/hyderabad/small/16_1.jpg" class="image15">              </a>            </li>            
+            <li>
+              <a href="images/hyderabad/big/17.jpg" style="background:url(images/hyderabad/small/17.jpg) no-repeat;">
+                <img src="images/hyderabad/small/17_1.jpg" class="image16">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/18.jpg" style="background:url(images/hyderabad/small/18.jpg) no-repeat;">
+                <img src="images/hyderabad/small/18_1.jpg" class="image17">              </a>            </li>
+           <li>
+              <a href="images/hyderabad/big/19.jpg" style="background:url(images/hyderabad/small/19.jpg) no-repeat;">
+                <img src="images/hyderabad/small/19_1.jpg" class="image18">              </a>            </li>     
+           <li>
+              <a href="images/hyderabad/big/20.jpg" style="background:url(images/hyderabad/small/20.jpg) no-repeat;">
+                <img src="images/hyderabad/small/20_1.jpg" class="image19">              </a>            </li>
+           <li>
+              <a href="images/hyderabad/big/21.jpg" style="background:url(images/hyderabad/small/21.jpg) no-repeat;">
+                <img src="images/hyderabad/small/21_1.jpg" class="image20">              </a>            </li>     
+           <li>
+              <a href="images/hyderabad/big/22.jpg" style="background:url(images/hyderabad/small/22.jpg) no-repeat;">
+                <img src="images/hyderabad/small/22_1.jpg" class="image21">              </a>            </li>           
+            <li>
+              <a href="images/hyderabad/big/23.jpg" style="background:url(images/hyderabad/small/23.jpg) no-repeat;">
+                <img src="images/hyderabad/small/23_1.jpg" class="image22">              </a>            </li>
+            <li>
+              <a href="images/hyderabad/big/24.jpg" style="background:url(images/hyderabad/small/24.jpg) no-repeat;">
+                <img src="images/hyderabad/small/24_1.jpg" class="image23">              </a>            </li>
+           <li>
+              <a href="images/hyderabad/big/25.jpg" style="background:url(images/hyderabad/small/25.jpg) no-repeat;">
+                <img src="images/hyderabad/small/25_1.jpg" class="image24">              </a>            </li>     
+           <li>
+              <a href="images/hyderabad/big/26.jpg" style="background:url(images/hyderabad/small/26.jpg) no-repeat;">
+                <img src="images/hyderabad/small/26_1.jpg" class="image25">              </a>            </li>
+           <li>
+              <a href="images/hyderabad/big/27.jpg" style="background:url(images/hyderabad/small/27.jpg) no-repeat;">
+                <img src="images/hyderabad/small/27_1.jpg" class="image26">              </a>            </li>     
+           <li>
+              <a href="images/hyderabad/big/28.jpg" style="background:url(images/hyderabad/small/28.jpg) no-repeat;">
+                <img src="images/hyderabad/small/28_1.jpg" class="image27">  </a>           			 </li>                 
+            <li>
+              <a href="images/hyderabad/big/29.jpg" style="background:url(images/hyderabad/small/29.jpg) no-repeat;">
+                <img src="images/hyderabad/small/29_1.jpg" class="image28">  </a>            		</li>
+            <li>
+              <a href="images/hyderabad/big/30.jpg" style="background:url(images/hyderabad/small/30.jpg) no-repeat;">
+                <img src="images/hyderabad/small/30_1.jpg" class="image29">              </a>            </li>
+           <li>
+              <a href="images/hyderabad/big/31.jpg" style="background:url(images/hyderabad/small/31.jpg) no-repeat;">
+                <img src="images/hyderabad/small/31_1.jpg" class="image30">              </a>            </li>     
+           <li>
+              <a href="images/hyderabad/big/32.jpg" style="background:url(images/hyderabad/small/32.jpg) no-repeat;">
+                <img src="images/hyderabad/small/32_1.jpg" class="image31">              </a>            </li>
+           <li>
+              <a href="images/hyderabad/big/33.jpg" style="background:url(images/hyderabad/small/33.jpg) no-repeat;">
+                <img src="images/hyderabad/small/33_1.jpg" class="image32">              </a>            </li>     
+           <li>
+              <a href="images/hyderabad/big/34.jpg" style="background:url(images/hyderabad/small/34.jpg) no-repeat;">
+                <img src="images/hyderabad/small/34_1.jpg" class="image34">      </a>                    </li>     
+                
+           <li>
+     		 <a href="images/hyderabad/big/35.jpg" style="background:url(images/hyderabad/small/35.jpg) no-repeat;">
+     		   <img src="images/hyderabad/small/35_1.jpg" class="image35">      </a>                    </li>        
+   
+          
+          <li>
+     		 <a href="images/hyderabad/big/36.jpg" style="background:url(images/hyderabad/small/36.jpg) no-repeat;">
+     		   <img src="images/hyderabad/small/36_1.jpg" class="image36">      </a>                    </li>        
+   
+   
+  		 <li>
+     		 <a href="images/hyderabad/big/37.jpg" style="background:url(images/hyderabad/small/37.jpg) no-repeat;">
+     		   <img src="images/hyderabad/small/37_1.jpg" class="image37">      </a>                    </li>        
+   
+   
+  		 <li>
+     		 <a href="images/hyderabad/big/38.jpg" style="background:url(images/hyderabad/small/38.jpg) no-repeat;">
+     		   <img src="images/hyderabad/small/38_1.jpg" class="image38">      </a>                    </li>        
+            
+          <li>
+     		 <a href="images/hyderabad/big/39.jpg" style="background:url(images/hyderabad/small/39.jpg) no-repeat;">
+     		   <img src="images/hyderabad/small/39_1.jpg" class="image39">      </a>                    </li>        
+   
+          <li>
+     		 <a href="images/hyderabad/big/40.jpg" style="background:url(images/hyderabad/small/40.jpg) no-repeat;">
+     		   <img src="images/hyderabad/small/40_1.jpg" class="image40">      </a>                    </li>        
+           
+          <li>
+     		 <a href="images/hyderabad/big/41.jpg" style="background:url(images/hyderabad/small/41.jpg) no-repeat;">
+     		   <img src="images/hyderabad/small/41_1.jpg" class="image41">      </a>                    </li>       
+               
+          <li>
+     		 <a href="images/hyderabad/big/42.jpg" style="background:url(images/hyderabad/small/43.jpg) no-repeat;">
+     		   <img src="images/hyderabad/small/43_1.jpg" class="image42">      </a>                    </li>
+               
+               
+          <li>
+     		 <a href="images/hyderabad/big/44.jpg" style="background:url(images/hyderabad/small/44.jpg) no-repeat;">
+     		   <img src="images/hyderabad/small/44_1.jpg" class="image43">      </a>                    </li>     
+           
+           <li>
+     		 <a href="images/hyderabad/big/45.jpg" style="background:url(images/hyderabad/small/45.jpg) no-repeat;">
+     		   <img src="images/hyderabad/small/45_1.jpg" class="image44">      </a>                    </li>       
+     
+   
+           
+           
+           
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+    <script>
+  	$(function(){
+		$('#close').click(function(){
+			parent.$.fancybox.close();			
+		});
+	})
+	
+  </script>
+</body>
+</html>

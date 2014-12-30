@@ -1,0 +1,104 @@
+/********************
+ * FEATURE CAROUSEL *
+ ********************/
+.carousel-container {
+  position:relative;
+  width:800px;
+  height:646px;
+  /*float:left;*/
+  padding:0px 60px 0px 60px;
+  margin:0px auto; padding:0px inherit;
+  }
+#carousel {
+  height:646x;
+  width:780px;
+  position:relative;
+  margin-bottom:0.5em;
+  font-size:12px;
+}
+.carousel-image {
+  border:0;
+  display:block;
+  margin:0px auto; padding:0px inherit;
+}
+.carousel-feature {
+  position:absolute;
+  top:-1000px;
+  left:-1000px;
+  cursor:pointer;
+
+}
+.carousel-feature .carousel-caption {
+  position:absolute;
+  
+  width:100%;
+  top:180px;
+ 
+
+}
+.carousel-feature .carousel-caption p {
+  margin:0;
+  padding:5px;
+  font-size:14px;
+  color:#cc060d;
+  height:200px;
+}
+.tracker-summation-container {
+  position:absolute;
+   color:#cc060d;
+  right:48px;
+  top:230px;
+  padding:3px;
+  margin:3px;
+  display:none;
+
+}
+.tracker-individual-container {
+  position:absolute;
+  color:white;
+  right:48px;
+  top:210px;
+  padding:0;
+  margin:0;
+}
+.tracker-individual-container li {
+  list-style:none;
+    display:none;
+}
+.tracker-individual-container .tracker-individual-blip {
+  margin:0 3px;
+  padding:0 3px;
+  color:white;
+  text-align:center;
+  background-color:#DDD;
+  display:none;
+}
+.tracker-individual-container .tracker-individual-blip-selected {
+  color:white;
+  font-weight:bold;
+  background-color:#000;
+  display:none;
+}
+#carousel-left {
+  position:absolute;
+  top:218px;
+  left:45px;
+  cursor:pointer;
+}
+#carousel-right {
+  position:absolute;
+  top:218px;
+  right:30px;
+  cursor:pointer;
+}
+#carousel .carousel-feature .carousel-caption p { 
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+  color:#cc060d;
+  font-weight:normal;
+  text-align:left;
+
+
+
+
+  }

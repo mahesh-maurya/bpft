@@ -1,0 +1,2 @@
+#counter{border-radius:50px; /* CSS3 */behavior: url(ie-css3.htc);}
+#intro .bg{background: url("../images/scroll.gif"); no-repeat scroll 15px 12px #000000; /*ie8*/border-radius:50px; /* CSS3 */behavior: url(ie-css3.htc);}
