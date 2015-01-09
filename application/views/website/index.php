@@ -75,12 +75,14 @@
                                         </div>
                                         <h6>Watch this stylish video and taste life in style</h6>
                                         <p></p>
+<!--
                                         <div class="home-invite">
 
                                             <a href="<?php echo site_url("website/blenderstyle");?>">
                                                 <p>Win invites to BPFT Style Nights</p>
                                             </a>
                                         </div>
+-->
 
 
 
@@ -138,6 +140,7 @@
                         <h6>Musicians for Blenders Pride Fashion Tour, 2014</h6>
 <!--                        <p class="h7">Get a live taste of style in music</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class="blenders-invite">
 
@@ -146,6 +149,7 @@
 
                             </div>
                         </a>
+-->
                       <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -170,6 +174,7 @@
                         <h6>Designer for Blenders Pride Fashion Tour, 2014 </h6>
 <!--                        <p class="h7">Get a live taste of style in design</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -178,6 +183,7 @@
 
                             </div>
                         </a>
+-->
 
      <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
@@ -202,6 +208,7 @@
                         <h6>Designer for Blenders Pride Fashion Tour, 2014</h6>
 <!--                        <p class="h7">Get a live taste of style in design</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class="blenders-invite">
 
@@ -210,6 +217,7 @@
 
                             </div>
                         </a>
+-->
                 <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/jGSrrtPG8Ts?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -232,6 +240,7 @@
                         <h6>Musician for Blenders Pride Fashion Tour, 2014</h6>
 <!--                        <p class="h7">Get a live taste of style in music</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -240,6 +249,7 @@
 
                             </div>
                         </a>
+-->
    <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -262,6 +272,7 @@
                                         <h6>Musicians for Blenders Pride Fashion Tour, 2014</h6>
 <!--                                        <p class="h7">Get a live taste of style in music</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -270,6 +281,7 @@
 
                             </div>
                         </a>
+-->
    <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -293,6 +305,7 @@
                                         <h6>Speaker for Blenders Pride Fashion Tour, 2014</h6>
 <!--                                        <p class="h7">Get a live taste of style</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -301,6 +314,7 @@
 
                             </div>
                         </a>
+-->
    <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -324,6 +338,7 @@
                                         <h6>Musician for Blenders Pride Fashion Tour, 2014</h6>
 <!--<p class="h7">Get a live taste of style in music</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -332,6 +347,7 @@
 
                             </div>
                         </a>
+-->
                                      <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -354,6 +370,7 @@
                                         <h6>Speaker for Blenders Pride Fashion Tour, 2014</h6>
 <!--<p class="h7">Get a live taste of style</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -362,6 +379,7 @@
 
                             </div>
                         </a>
+-->
                                       <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -384,6 +402,7 @@
                                         <h6>Designer for Blenders Pride Fashion Tour, 2014</h6>
 <!--<p class="h7">Get a live taste of style in design</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -392,6 +411,7 @@
 
                             </div>
                         </a>
+-->
                                   <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/jGSrrtPG8Ts?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -414,6 +434,7 @@
                                         <h6>Designer for Blenders Pride Fashion Tour, 2014</h6>
 <!--<p class="h7">Get a live taste of style in design</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -422,6 +443,7 @@
 
                             </div>
                         </a>
+-->
                                        <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -444,6 +466,7 @@
                                         <h6>Designer for Blenders Pride Fashion Tour, 2014</h6>
 <!--<p class="h7">Get a live taste of style in design</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -452,6 +475,7 @@
 
                             </div>
                         </a>
+-->
                                      <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -474,6 +498,7 @@
                                         <h6>Designers for Blenders Pride Fashion Tour, 2014</h6>
 <!--<p class="h7">Get a live taste of style in design</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -482,6 +507,7 @@
 
                             </div>
                         </a>
+-->
                                    <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -505,6 +531,7 @@
 
 <!--                                        <p class="h7">Get a live taste of style in music</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -513,6 +540,7 @@
 
                             </div>
                         </a>
+-->
    <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -535,6 +563,7 @@
                                         <h6>Designers for Blenders Pride Fashion Tour, 2014</h6>
 <!--<p class="h7">Get a live taste of style in design</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -543,6 +572,7 @@
 
                             </div>
                         </a>
+-->
                                   <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -566,6 +596,7 @@
 
 <!--<p class="h7">Get a live taste of style in design</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -574,6 +605,7 @@
 
                             </div>
                         </a>
+-->
    <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -596,6 +628,7 @@
                                         <h6>Designer for Blenders Pride Fashion Tour, 2014</h6>
 <!--<p class="h7">Get a live taste of style in design</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -604,6 +637,7 @@
 
                             </div>
                         </a>
+-->
                                     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/OJURbr2E4K8?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -626,6 +660,7 @@
                                         <h6>Speaker for Blenders Pride Fashion Tour, 2014</h6>
 <!--<p class="h7">Get a live taste of style</p>-->
 
+<!--
                         <a href="<?php echo site_url("website/blenderstyle");?>">
                             <div class=" blenders-invite">
 
@@ -634,6 +669,7 @@
 
                             </div>
                         </a>
+-->
                                      <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video

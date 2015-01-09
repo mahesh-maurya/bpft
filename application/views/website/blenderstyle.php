@@ -48,6 +48,7 @@
                                         <h5>Midival Punditz</h5>
                                         <h6>Musicians</h6>
 
+<!--
                                         <a href="#" data-id="13" class="openstyleblender">
                                             <div class="style-text">
 
@@ -56,6 +57,7 @@
 
                                             </div>
                                         </a>
+-->
      <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -84,6 +86,7 @@
                                         <h5>Rocky Star</h5>
                                         <h6>Designer</h6>
                                         
+<!--
                                         <a href="#" data-id="6" class="openstyleblender">
                                             <div class="style-text">
 
@@ -92,6 +95,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -118,6 +122,7 @@
                                         <h5>Little Shilpa</h5>
                                         <h6>Designer</h6>
 
+<!--
                                         <a href="#" data-id="9" class="openstyleblender">
                                             <div class="style-text">
 
@@ -126,6 +131,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/jGSrrtPG8Ts?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -152,6 +158,7 @@
                                         <h5>Grain featuring <br> Karsh Kale</h5>
                                         <h6>Musician</h6>
 
+<!--
                                         <a href="#" data-id="3" class="openstyleblender">
                                             <div class="style-text">
 
@@ -160,6 +167,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -186,6 +194,7 @@
                                         <h5>Ashvin and Ash</h5>
                                         <h6>Musicians</h6>
 
+<!--
                                         <a href="#" data-id="21" class="openstyleblender">
                                             <div class="style-text">
 
@@ -194,6 +203,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -220,6 +230,7 @@
                                         <h5>Boman Irani</h5>
                                         <h6>Speaker</h6>
 
+<!--
                                         <a href="#" data-id="7" class="openstyleblender">
                                             <div class="style-text">
 
@@ -228,6 +239,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -254,6 +266,7 @@
                                         <h5>Boom bay Central</h5>
                                         <h6>Musician</h6>
 
+<!--
                                         <a href="#" data-id="16" class="openstyleblender">
                                             <div class="style-text">
 
@@ -262,6 +275,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -288,6 +302,7 @@
                                         <h5>Chetan Bhagat</h5>
                                         <h6>Speaker</h6>
 
+<!--
                                         <a href="#" data-id="17" class="openstyleblender">
                                             <div class="style-text">
 
@@ -296,6 +311,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -322,6 +338,7 @@
                                         <h5>Gaurav Gupta</h5>
                                         <h6>Designer</h6>
 
+<!--
                                         <a href="#" data-id="8" class="openstyleblender">
                                             <div class="style-text">
 
@@ -330,6 +347,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/jGSrrtPG8Ts?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -356,6 +374,7 @@
                                         <h5>Namrata Joshipura</h5>
                                         <h6>Designer</h6>
 
+<!--
                                         <a href="#" data-id="18" class="openstyleblender">
                                             <div class="style-text">
 
@@ -364,6 +383,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -390,6 +410,7 @@
                                         <h5>Neeta Lulla</h5>
                                         <h6>Designer</h6>
 
+<!--
                                         <a href="#" data-id="5" class="openstyleblender">
                                             <div class="style-text">
 
@@ -398,6 +419,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -424,6 +446,7 @@
                                         <h5>Pankaj and Nidhi</h5>
                                         <h6>Designers</h6>
 
+<!--
                                         <a href="#" data-id="19" class="openstyleblender">
                                             <div class="style-text">
 
@@ -432,6 +455,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -458,6 +482,7 @@
                                         <h5>Shaa'ir and func</h5>
                                         <h6>Musicians</h6>
 
+<!--
                                         <a href="#" data-id="20" class="openstyleblender">
                                             <div class="style-text">
 
@@ -466,6 +491,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -492,6 +518,7 @@
                                         <h5>Shivan and Naresh</h5>
                                         <h6>Designers</h6>
 
+<!--
                                         <a href="#" data-id="11" class="openstyleblender">
                                             <div class="style-text">
 
@@ -500,6 +527,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/CUxJONigQhc?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -526,6 +554,7 @@
                                         <h5>Suneet Varma</h5>
                                         <h6>Designer</h6>
 
+<!--
                                         <a href="#" data-id="14" class="openstyleblender">
                                             <div class="style-text">
 
@@ -534,6 +563,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/OJURbr2E4K8?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -560,6 +590,7 @@
                                         <h5>Varun Bahl</h5>
                                         <h6>Designer</h6>
 
+<!--
                                         <a href="#" data-id="10" class="openstyleblender">
                                             <div class="style-text">
 
@@ -568,6 +599,7 @@
 
                                             </div>
                                         </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly fancybox.iframe" href="http://www.youtube.com/embed/OJURbr2E4K8?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1"> <p>
                         Watch Video
@@ -733,11 +765,13 @@ $i=0;
             <p class="textblender">
                 
             </p>
+<!--
             <a class="chooseshow" href="#">
                 <div class="style-text">
                     <p style="font-size: 13px;">choose this style blender and WIN AN INVITE TO BPFT STYLE NIGHTS</p>
                 </div>
             </a>
+-->
     <div class="inspired-watch">
                     <a class="videoonly videourlonly fancybox.iframe" href=""> <p>
                         Watch Video

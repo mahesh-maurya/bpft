@@ -1,7 +1,7 @@
 
             <div class="content-center">
                 <div class="follows">
-                    <h5><span class="gold"><?php echo $user->total;?> </span>people are going to Blenders Pride Fashion Tour </h5>
+                    <h5><span class="gold"><?php echo $user->total;?> </span>people went to Blenders Pride Fashion Tour </h5>
                     <p>read/view their style statements below.</p>
                 </div>
             </div>
